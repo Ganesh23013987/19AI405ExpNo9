@@ -139,7 +139,7 @@ while(player):
 <hr>
 <h1>Sample Input and Output:</h1>
 <hr>
-<img width="1000" alt="AI 9 EXP output wumpus" src="https://github.com/Ganesh23013987/19AI405ExpNo9/assets/147473768/eca068c9-86e5-4004-82b0-2e88a9a210e5">
+<img width="1200" alt="AI 9 EXP output wumpus" src="https://github.com/Ganesh23013987/19AI405ExpNo9/assets/147473768/eca068c9-86e5-4004-82b0-2e88a9a210e5">
 
 
 ## RESULT:
